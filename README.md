@@ -5,6 +5,7 @@ This repository contains a report-aligned reproduction file for the project **Gr
 ## Included files
 
 - `fl_weather_graph_learning.py` — clean Python script aligned with the final report
+- `fmi_daily_50stations.raw` — data
 - `requirements.txt` — minimal dependencies
 - `README.md` — setup and usage instructions
 
