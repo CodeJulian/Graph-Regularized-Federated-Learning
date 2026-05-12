@@ -4,8 +4,7 @@ This repository contains a report-aligned reproduction file for the project **Gr
 
 ## Included files
 
-- `fl_project_report_aligned.py` — clean Python script aligned with the final report
-- `FL_Project_Report_Aligned.ipynb` — notebook version of the same pipeline
+- `fl_weather_graph_learning.py` — clean Python script aligned with the final report
 - `requirements.txt` — minimal dependencies
 - `README.md` — setup and usage instructions
 
